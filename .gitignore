@@ -1,0 +1,7 @@
+.vscode/
+.idea
+.env/
+__pycache__/
+.DS_Store
+
+TP3/out*.png

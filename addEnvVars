@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export PYTHONPATH=$PYTHONPATH:$(dirname $(realpath $BASH_SOURCE))
+source .env/bin/activate
